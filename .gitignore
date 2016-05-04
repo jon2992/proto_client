@@ -8,6 +8,8 @@
 /spec/reports/
 /tmp/
 
+*.gem
+
 # OSX ignores
 # Folder view configuration files
 .DS_Store
