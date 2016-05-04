@@ -1,5 +1,5 @@
-require "proto_client/version"
+require 'proto_client/version'
 
+# ProtoClient base module
 module ProtoClient
-  # Your code goes here...
 end
